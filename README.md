@@ -66,12 +66,4 @@ I believe in learning by building. Every project I create will be better than th
 
 Tippy is my **“Hello World” moment**, and from here, I’m aiming to grow into a developer who can build impactful and scalable applications.
 
----
-
-## 🤝 Connect With Me
-
-If you’re a student, startup, or someone who needs a simple app or website, feel free to reach out. I’m open to collaborations and helping others build their ideas at affordable prices.
-
----
-
 ⭐ *This is just the beginning. More projects coming soon!*
